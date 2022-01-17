@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**zaccherinij/zaccherinij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤠 Entrepreneur & marketer.
 
-Here are some ideas to get you started:
+I am passionate about technology, innovation, growth, strategy, creativity and humans — in business and life in general.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Links
+
+https://jeremyzacch.xyz
+
+https://facebook.com/jeremyzacch
+
+https://instagram.com/jeremyzacch
+
+https://linkedin.com/in/jeremyzacch
+
+https://twitter.com/jeremyzacch
+
+https://strava.com/athletes/24102060
+
+https://producthunt.com/@zaccherinij
+
+https://github.com/zaccherinij
