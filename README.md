@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-### 🤠 Entrepreneur & marketer.
+🤠 About me
 
+Entrepreneur & marketer.
 I am passionate about technology, innovation, growth, strategy, creativity and humans — in business and life in general.
 
 🔗 Links
