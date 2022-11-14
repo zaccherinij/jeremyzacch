@@ -1,7 +1,7 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/201688444-0b5ca40b-d3b1-426a-a845-31aa0c303dcd.png"><br/>
-  <a href="https://instagram.com/jeremyzacch">Instagram</a> | <a href="https://linkedin.com/in/jeremyzacch">LinkedIn</a> | <a href="https://twitter.com/jeremyzacch">Twitter</a> | <a href="Github">Strava</a> | <a href="https://github.com/zaccherinij">Github</a>
+  <a href="https://instagram.com/jeremyzacch">Instagram</a> | <a href="https://linkedin.com/in/jeremyzacch">LinkedIn</a> | <a href="https://twitter.com/jeremyzacch">Twitter</a> | <a href="https://www.strava.com/athletes/24102060">Strava</a> | <a href="https://github.com/zaccherinij">Github</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
