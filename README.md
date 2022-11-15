@@ -7,13 +7,13 @@
 
 <hr/>
 
-<p align="center">
-I am interested in tech, design, privacy, creativity, strategy, growth, freedom and humans — in my work, and in life in general.
+### I am interested in tech, design, privacy, creativity, strategy, growth, freedom and humans — in my work, and in life in general.
 
-I am currently marketing lead/DevRel at <a href="https://github.com/zama-ai">Zama</a>.
+### I am currently marketing lead/DevRel at <a href="https://github.com/zama-ai">Zama</a>.
 
-The easiest way to connect with me is to DM on <a href="https://twitter.com/jeremyzacch">Twitter</a>.
-</p>
+### The easiest way to connect with me is to DM on <a href="https://twitter.com/jeremyzacch">Twitter</a>.
+
+
 
 <hr/>
 
