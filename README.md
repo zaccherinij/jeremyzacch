@@ -1,15 +1,22 @@
 <!-- Main header navigation -->
 <p align="center">
-  <img width="100" src="https://user-images.githubusercontent.com/5758427/201688444-0b5ca40b-d3b1-426a-a845-31aa0c303dcd.png"><br/>
-  <a href="https://instagram.com/jeremyzacch">Instagram</a> | <a href="https://linkedin.com/in/jeremyzacch">LinkedIn</a> | <a href="https://twitter.com/jeremyzacch">Twitter</a> | <a href="https://www.strava.com/athletes/24102060">Strava</a> | <a href="https://github.com/zaccherinij">Github</a>
+  <img width="200" src="https://user-images.githubusercontent.com/5758427/205062027-e5f81fc4-f17e-4169-ac04-9b94f7280602.png"><br/><br/>
+  <a href="https://github.com/zaccherinij">Github</a> |
+  <a href="https://instagram.com/jeremyzacch">Instagram</a> | 
+  <a href="https://linkedin.com/in/jeremyzacch">LinkedIn</a> | 
+  <a href="https://www.strava.com/athletes/24102060">Strava</a> | 
+  <a href="https://twitter.com/jeremyzacch">Twitter</a>
 </p>
 <!-- /Main header navigation -->
 
 <hr/>
 
-I am interested in tech, design, privacy, creativity, strategy, growth, freedom and humans — in my work, and in life in general. Marketing Director/DevRel at <a href="https://github.com/zama-ai">Zama</a>. Connect with me on LinkedIn: @jeremyzacch or Twitter: <a href="https://twitter.com/jeremyzacch">@jeremyzacch</a>.
+My name is Jérémy Zaccherini, and this is my very own website. 
 
+I am interested in tech, design, privacy, creativity, strategy, growth, freedom and humans — in my work, and in life in general. 
 
+I am currently Marketing Director/DevRel at <a href="https://github.com/zama-ai">Zama</a>. 
 
 <hr/>
+
 
