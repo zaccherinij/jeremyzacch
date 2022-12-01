@@ -18,5 +18,3 @@ I am interested in tech, design, privacy, creativity, strategy, growth, freedom 
 I am currently Marketing Director/DevRel at <a href="https://github.com/zama-ai">Zama</a>. 
 
 <hr/>
-
-
