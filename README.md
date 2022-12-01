@@ -7,11 +7,7 @@
 
 <hr/>
 
-### I am interested in tech, design, privacy, creativity, strategy, growth, freedom and humans — in my work, and in life in general.
-
-### Marketing Director/DevRel at <a href="https://github.com/zama-ai">Zama</a>.
-
-### Contact me on twitter: <a href="https://twitter.com/jeremyzacch">@jeremyzacch</a>.
+I am interested in tech, design, privacy, creativity, strategy, growth, freedom and humans — in my work, and in life in general. Marketing Director/DevRel at <a href="https://github.com/zama-ai">Zama</a>. Connect with me on LinkedIn: @jeremyzacch or Twitter: <a href="https://twitter.com/jeremyzacch">@jeremyzacch</a>.
 
 
 
