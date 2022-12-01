@@ -11,7 +11,7 @@
 
 <hr/>
 
-My name is Jérémy Zaccherini, and this is my very own website. 
+My name is Jérémy Zaccherini, 
 
 I am interested in tech, design, privacy, creativity, strategy, growth, freedom and humans — in my work, and in life in general. 
 
